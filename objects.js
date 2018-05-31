@@ -1,7 +1,6 @@
-var myBloodyValentine = 'My Bloody Valentine' 
 var playlist = {
   Slowdive: 'Alison'
-  myBloodyValentine: 'Sometimes'
+  Sting: 'Roxanne'
 }
 
 // function updatePlaylist() {
